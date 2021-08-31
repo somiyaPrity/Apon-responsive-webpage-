@@ -127,6 +127,10 @@
     .price {
         margin-bottom: 38px;
     }
+    .price .price-btn {
+ 
+    left: 129px;
+}
 
     /*team*/
     .team-detail p {
